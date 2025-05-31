@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+torch
+timm
+opencv-python-headless
+Pillow
+scikit-image
+lime
+scipy
+numpy
+groq
+openpyxl
