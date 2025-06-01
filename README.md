@@ -1,5 +1,6 @@
 # DATA3888 Group 4
 
+This README file documents the steps and code required to ensure full reproducibility of the analysis and results.
 
 ## 🛠 Environment Setup
 
